@@ -1,0 +1,55 @@
+body{background-color: wheat;
+    text-align: center;
+}
+
+h1{color: orange;
+    background-color: black;
+    border-radius: 35px;
+}
+
+.r{width: 250px;
+    height: 250px;
+    display: inline-block;
+    border: 3px solid black;
+  
+}
+
+div{text-align: center;
+    display: inline-block;
+  
+}
+
+
+
+ h2{background-color: gray;
+}
+
+.f{position: absolute;
+}
+
+
+
+
+.q{width: 20%;
+    height: 20%;
+
+}
+
+
+h3{background-color:purple;
+width: 20%;
+color: yellow;
+}
+
+p{background-color: darkgray;
+color: red;
+}
+
+.k{width: 55%;
+    height: 55%;
+}
+
+.w{background-color:purple;
+    width: 55%;
+    color: white;}
+

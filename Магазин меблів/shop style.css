@@ -1,0 +1,90 @@
+body{background-color: bisque;
+}
+
+h1{color: orange;
+    background-color: black;
+    border-radius: 35px;
+}
+
+.q{width: 20%;
+    height: 20%;
+}
+
+ h3{background-color:purple;
+        width: 20%;
+        color: white;
+ }
+
+ div{text-align: center;
+    display: inline-block;
+    
+}
+
+ .k{width: 55%;
+     height: 55%;
+ }
+
+.n{background-color:purple;
+    width: 400%;
+    color: yellow;
+}
+
+ .w{background-color:purple;
+    width: 55%;
+    color: white;}
+
+.a{color: orange;
+    background-color: black;
+    border-radius: 35px;
+    width: 15%;
+}
+
+img{width: 100%;
+    height: 100%;
+}
+
+
+
+.l{color: green;}
+
+
+
+.m{color: red;}
+
+
+
+
+.one{
+     border: 3px solid black;
+    width:  15%;}
+
+
+.chair{ position: absolute;
+     left: 50px;
+    border: 3px solid black;
+    width:  10%;}
+
+.two{left: 350px;
+    border: 3px solid black;
+    width:  14%;
+    position: absolute;}
+
+.three{left: 715px;
+    border: 3px solid black;
+    width:  13%;
+    position: absolute;}
+
+.four{left: 1060px;
+    border: 3px solid black;
+    width:  9%;
+    position: absolute;}
+
+.five{left: 1320px;
+    border: 3px solid black;
+    width:  11%;
+    position: absolute;}
+
+.six{left: 1630px;
+    border: 3px solid black;
+    width:  10%;
+    position: absolute;}
